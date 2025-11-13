@@ -1,0 +1,252 @@
+@font-face {
+    font-family: 'Nimbus Sans Extended';
+    src: url('../fonts/nimbus-sans-extended.ttf') format('truetype');
+    font-style: normal;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Nimbus Sans Extended', Arial, sans-serif;
+}
+
+/* Cabeçalho */
+.main-header {
+    position: absolute;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 25px 60px;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0);
+    z-index: 1000;
+    border-bottom: 1px solid #3f3b34;
+    box-sizing: border-box;
+}
+
+/* Logo */
+.logo img {
+    margin-top: 3px;
+    height: 52px;
+    margin-left: 62px;
+}
+
+/* Navegação */
+.navbar {
+    margin-left: 180px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.navbar ul {
+    list-style: none;
+    display: flex;
+    gap: 40px;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar a {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    font-style: bold;
+    text-decoration: none;
+    color: white;
+    letter-spacing: 2px;
+    transition: 0.3s;
+    position: relative;
+    padding-bottom: 0;
+}
+
+/* Linha animada */
+.navbar a::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -47.5px;
+    width: 0%;
+    height: 2px;
+    background-color: #a30101;
+    transition: width 0.3s ease;
+}
+
+.navbar a:hover::after {
+    width: 100%;
+}
+
+.navbar a.active::after {
+    width: 100%;
+    background-color: #a30101;
+}
+
+.navbar ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    margin: 0;
+    padding: 0;
+}
+
+.login-btn {
+    display: flex;
+    align-items: center; 
+    margin-top: 0;
+    position: relative;
+    top: 1px;
+}
+
+.login-btn a {
+    display: inline-block;
+    width: 75px;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    border: 2px solid #a30101;
+    color: white;
+    background-color: transparent;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    transition: all 0.25s ease;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+.login-btn a:hover {
+    background-color: #a30101;
+    border-color: #a30101;
+    color: #fff;
+}
+
+.login-btn a::after {
+    content: none !important;
+}
+
+/* Dropdown simples para PORTFOLIO */
+.portfolio-dropdown {
+    position: relative;
+}
+
+/* Cria uma “ponte” invisível entre o texto e o menu */
+.portfolio-dropdown::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    height: 45px;
+    background: transparent;
+}
+
+/* Caixa branca */
+.portfolio-menu {
+    display: none;
+    position: absolute;
+    margin-top: 40%;
+    left: 0;
+    background: white;
+    color: black;
+    width: 155px;
+    flex-direction: column;
+    border: none;
+    z-index: 2000;
+    box-shadow: none;
+}
+
+/* Links internos */
+.portfolio-menu a {
+    display: block;
+    padding: 10px 15px;
+    font-size: 11.5px;
+    text-decoration: none;
+    color: #000;
+}
+
+/* Hover simples */
+.portfolio-menu a:hover {
+    background-color: #f5f5f5;
+}
+
+/* Mostrar o menu ao passar o rato */
+.portfolio-dropdown:hover .portfolio-menu {
+    display: flex;
+}
+
+/* Remove a linha vermelha dos links dentro do menu branco */
+.portfolio-menu a::after {
+    content: none !important;
+    display: none !important;
+}
+
+/* Garante que não aparece em hover nem ativo */
+.portfolio-menu a:hover::after,
+.portfolio-menu a.active::after {
+    content: none !important;
+    display: none !important;
+}
+
+/* Dropdown de serviços */
+.servicos-dropdown {
+  position: relative;
+}
+
+/* “ponte” invisível entre o item e o menu */
+.servicos-dropdown::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  height: 45px;       
+  background: transparent;
+}
+
+/* Caixa do menu */
+.servicos-menu {
+  display: none;
+  position: absolute;
+  margin-top: 40%;      
+  left: 0;
+  background: #fff;
+  color: #000;
+  width: 165px;         
+  flex-direction: column;
+  border: none;
+  z-index: 2000;
+  box-shadow: none;
+}
+
+/* Links internos */
+.servicos-menu a {
+  display: block;
+  padding: 10px 15px;
+  font-size: 11.5px;
+  text-decoration: none;
+  color: #000;
+}
+
+/* Hover simples */
+.servicos-menu a:hover {
+  background-color: #f5f5f5;
+}
+
+/* Mostrar o menu ao passar o rato */
+.servicos-dropdown:hover .servicos-menu {
+  display: flex;
+}
+
+/* Remove a linha vermelha animada dos links dentro do menu branco */
+.servicos-menu a::after,
+.servicos-menu a:hover::after,
+.servicos-menu a.active::after {
+  content: none !important;
+  display: none !important;
+}
+
+
+
