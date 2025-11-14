@@ -1,0 +1,121 @@
+:root {
+    --privacy-text: #111111;
+    --privacy-muted: #5a5a5a;
+    --privacy-background: #f5f6f8;
+    --privacy-accent: #e30613;
+}
+
+body {
+    background-color: #ffffff;
+    color: var(--privacy-text);
+    font-family: 'Nimbus Sans Extended', Arial, Helvetica, sans-serif;
+}
+
+.privacy-page {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    padding-bottom: 4rem;
+}
+
+.privacy-hero {
+    background: linear-gradient(rgba(8, 12, 22, 0.65), rgba(8, 12, 22, 0.65)),
+        url('../img/index1.png') center/cover no-repeat;
+    min-height: 340px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #ffffff;
+    position: relative;
+}
+
+.privacy-hero__overlay {
+    width: min(1200px, 92%);
+    margin: 0 auto;
+    padding: 6rem 1rem 4.5rem;
+}
+
+.privacy-hero__breadcrumb {
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-bottom: 1.5rem;
+    opacity: 0.9;
+}
+
+.privacy-hero__content h1 {
+    font-size: clamp(2rem, 4vw, 3.5rem);
+    letter-spacing: 0.05em;
+    margin-bottom: 1.5rem;
+    text-transform: uppercase;
+}
+
+.privacy-hero__intro {
+    font-size: clamp(1rem, 2vw, 1.2rem);
+    line-height: 1.7;
+    max-width: 760px;
+    margin: 0 auto;
+}
+
+.privacy-section {
+    width: min(900px, 92%);
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding: 2rem 0 1rem;
+    border-bottom: 1px solid rgba(17, 17, 17, 0.08);
+}
+
+.privacy-section:last-of-type {
+    border-bottom: none;
+    padding-bottom: 4rem;
+}
+
+.privacy-section h2 {
+    font-size: 1.75rem;
+    font-weight: 600;
+    text-transform: capitalize;
+    margin-bottom: 1rem;
+    color: var(--privacy-text);
+}
+
+.privacy-section p {
+    color: var(--privacy-muted);
+    line-height: 1.8;
+    margin-bottom: 1rem;
+    font-size: 1rem;
+}
+
+.privacy-section a {
+    color: var(--privacy-accent);
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.privacy-section a:hover,
+.privacy-section a:focus {
+    text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+    .privacy-hero {
+        min-height: 280px;
+    }
+
+    .privacy-hero__overlay {
+        padding: 3rem 1rem 3.5rem;
+    }
+
+    .privacy-section {
+        padding-bottom: 0.5rem;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    * {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+        scroll-behavior: auto !important;
+    }
+}
