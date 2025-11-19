@@ -13,7 +13,7 @@
 
     <!-- Topo -->
     <section class="servico-topo">
-        <img src="../img/index2.png" alt="UAV/Drone Fotogrametria" class="servico-topo-img">
+        <img src="../img/index3.png" alt="UAV/Drone Fotogrametria" class="servico-topo-img">
         <div class="servico-topo-texto">
             <strong><h1>UAV/Drone Fotogrametria</h1></strong>
         </div>

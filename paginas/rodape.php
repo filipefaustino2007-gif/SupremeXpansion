@@ -17,7 +17,7 @@
             </div>
             <div class="footer-text">
                 <p>2025 © SupremeXpansion - Capturamos a Realidade</p>
-                <p>Todos os direitos reservados |<a href="https://supremexpansion.com/politica-privacidade/" target="_blank" rel="noopener noreferrer"> Política de Privacidade</a></p>
+                <p>Todos os direitos reservados |<a href="politica_privacidade.php" target="_blank" rel="noopener noreferrer"> Política de Privacidade</a></p>
             </div>
             <div class="footer-socials">
                 <a href="https://www.facebook.com/supremexpansion2023/" target="_blank" rel="noopener noreferrer">

@@ -33,8 +33,8 @@
             <b>
               <!-- Ajusta os hrefs conforme os teus ficheiros reais -->
               <a href="servico1.php">Laser Scan e Levantamentos 3D</a>
-              <a href="servico2.php">Desenho 2D e Modelação 3D</a>
-              <a href="servico3.php">UAV/Drone Fotogrametria</a>
+              <a href="servico2.php">UAV/Drone Fotogrametria</a>
+              <a href="servico3.php">Desenho 2D e Modelação 3D</a>
             </b>
           </div>
         </li>
