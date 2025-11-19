@@ -21,58 +21,13 @@
 
     <!-- Conteúdo principal -->
     <section class="contactos-conteudo">
-        <!-- Coluna esquerda: texto / info -->
-        <div class="contactos-info">
+        <div class="contactos-texto">
             <h2>Fale connosco</h2>
-
             <p class="contactos-intro">
                 Para entrar em contato connosco, pode utilizar o formulário disponível no nosso site, enviar um e-mail para o endereço indicado ou ligar por telefone. A nossa equipa estará pronta para o atender da melhor forma possível e responder a qualquer questão que possa surgir.
             </p>
-
-            <div class="contactos-bloco">
-                <h3>TELEFONE</h3>
-
-                <p class="contactos-phone">
-                    PT +351 935 584 011
-                </p>
-                <p class="contactos-note">
-                    (Chamada para a rede móvel nacional)
-                </p>
-
-                <br>
-
-                <p class="contactos-phone">
-                    UK +44 7557 795 968
-                </p>
-            </div>
-
-            <div class="contactos-bloco">
-                <h3>EMAIL</h3>
-                <p class="contactos-email">
-                    info@supremexpansion.com
-                </p>
-            </div>
-
-            <div class="contactos-social-box">
-                <span class="social-label"></span>
-                <div class="social-icons">
-                    <!-- Facebook -->
-                    <a href="https://www.facebook.com/supremexpansion2023/" target="_blank" rel="noopener noreferrer" class="social-icon">
-                        <img src="../img/facebook.svg" alt="Facebook">
-                    </a>
-                    <!-- Instagram -->
-                    <a href="https://www.instagram.com/supremexpansion/" target="_blank" rel="noopener noreferrer" class="social-icon">
-                        <img src="../img/instagram.svg" alt="Instagram">
-                    </a>
-                    <!-- LinkedIn -->
-                    <a href="https://pt.linkedin.com/company/supremexpansion" target="_blank" rel="noopener noreferrer" class="social-icon">
-                        <img src="../img/linkedin.svg" alt="LinkedIn">
-                    </a>
-                </div>
-            </div>
         </div>
 
-        <!-- Coluna direita: formulário -->
         <div class="contactos-form-wrapper">
             <form class="contactos-form" action="#" method="post">
                 <!-- Linha 1: Name + Email -->
@@ -97,6 +52,17 @@
                     </div>
                 </div>
 
+                <!-- Motivos de contacto -->
+                <div class="contactos-field full-width">
+                    <select id="motivo" name="motivo" required>
+                        <option value="" disabled selected>Motivo de contacto</option>
+                        <option value="orcamento">Pedido de orçamento</option>
+                        <option value="parceria">Proposta de parceria</option>
+                        <option value="suporte">Suporte ao cliente</option>
+                        <option value="outro">Outro motivo</option>
+                    </select>
+                </div>
+
                 <!-- Mensagem -->
                 <div class="contactos-field full-width">
                     <textarea id="mensagem" name="mensagem" rows="5" placeholder="Message" required></textarea>
@@ -114,6 +80,47 @@
                 <button type="submit" class="contactos-submit">Enviar</button>
                 <p id="success-message" class="success-message">Enviado com sucesso!</p>
             </form>
+        </div>
+
+        <div class="contactos-info">
+            <div class="contactos-info-blocos">
+                <div class="contactos-bloco">
+                    <h3>TELEFONE</h3>
+                    <p class="contactos-phone">PT +351 935 584 011</p>
+                    <p class="contactos-note">(Chamada para a rede móvel nacional)</p>
+                    <p class="contactos-phone">UK +44 7557 795 968</p>
+                    <div class="contactos-social-box">
+                        <div class="social-icons">
+                            <a href="https://www.facebook.com/supremexpansion2023/" target="_blank" rel="noopener noreferrer" class="social-icon">
+                                <img src="../img/facebook.svg" alt="Facebook">
+                            </a>
+                            <a href="https://www.instagram.com/supremexpansion/" target="_blank" rel="noopener noreferrer" class="social-icon">
+                                <img src="../img/instagram.svg" alt="Instagram">
+                            </a>
+                            <a href="https://pt.linkedin.com/company/supremexpansion" target="_blank" rel="noopener noreferrer" class="social-icon">
+                                <img src="../img/linkedin.svg" alt="LinkedIn">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="contactos-bloco contactos-email-bloco">
+                    <h3>EMAIL</h3>
+                    <p class="contactos-email">info@supremexpansion.com</p>
+                    <div class="contactos-social-box">
+                        <div class="social-icons">
+                            <a href="https://www.facebook.com/supremexpansion2023/" target="_blank" rel="noopener noreferrer" class="social-icon">
+                                <img src="../img/facebook.svg" alt="Facebook">
+                            </a>
+                            <a href="https://www.instagram.com/supremexpansion/" target="_blank" rel="noopener noreferrer" class="social-icon">
+                                <img src="../img/instagram.svg" alt="Instagram">
+                            </a>
+                            <a href="https://pt.linkedin.com/company/supremexpansion" target="_blank" rel="noopener noreferrer" class="social-icon">
+                                <img src="../img/linkedin.svg" alt="LinkedIn">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </section>
 
