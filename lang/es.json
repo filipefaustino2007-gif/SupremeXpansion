@@ -1,0 +1,128 @@
+{
+"_comentario": "Esta tradução pertence a cabecalho.php!!!",
+
+  "nav": {
+    "home": "INÍCIO",
+    "about": "SOBRE",
+    "services": "SERVIÇOS",
+    "services.laser_scan": "Laser Scan e Levantamentos 3D",
+    "services.design_3d": "Desenho 2D e Modelação 3D",
+    "services.uav_drone": "UAV/Drone Fotogrametria",
+    "portfolio": "PORTFOLIO",
+    "portfolio.residential": "Lev. Residenciais",
+    "portfolio.urban": "Lev. Urbanos",
+    "portfolio.commercial": "Lev. Comerciais",
+    "portfolio.industrial": "Lev. Industriais",
+    "contacts": "CONTACTOS",
+    "login": "LOGIN"
+  },
+
+  "_comentario": "Esta tradução pertence a contactos.php!!!",
+  "contact": {
+    "meta_title": "Contactos - SupremeXpansion",
+    "hero_alt": "Contactos SupremeXpansion",
+    "hero_title": "CONTACTOS",
+
+    "form": {
+      "title": "Fale connosco",
+      "intro": "Para entrar em contato connosco, pode utilizar o formulário disponível no nosso site, enviar um e-mail para o endereço indicado ou ligar por telefone. A nossa equipa estará pronta para o atender da melhor forma possível e responder a qualquer questão que possa surgir.",
+
+      "fields": {
+        "name": "Name",
+        "email": "Email",
+        "phone": "Telemóvel",
+        "reason_placeholder": "Motivo de contacto",
+        "reason_budget": "Pedido de orçamento",
+        "reason_partnership": "Proposta de parceria",
+        "reason_support": "Suporte ao cliente",
+        "reason_other": "Outro motivo",
+        "subject": "Assunto",
+        "message": "Mensagem"
+      },
+
+      "consent_text": "Eu concordo que este site armazene as minhas informações enviadas para que possam responder à minha pergunta.",
+      "submit": "Enviar",
+      "success": "Enviado com sucesso!"
+    },
+
+    "info": {
+      "phone_title": "TELEFONE",
+      "pt_note": "(Chamada para a rede móvel nacional)",
+      "email_title": "EMAIL",
+
+"_comentario": "Esta tradução pertence a index.php!!!",
+
+"home": {
+  "meta_title": "SupremeXpansion - Capturamos a Realidade",
+
+  "slides": {
+    "slide1": {
+      "title": "LASER SCAN E LEVANTAMENTOS 3D",
+      "text": "Laser Scanning e Nuvens de Pontos são tecnologias avançadas que permitem capturar com precisão a forma e as dimensões dos objetos em 3D."
+    },
+    "slide2": {
+      "title": "DESENHO 2D E MODELAÇÃO 3D",
+      "text": "Desenhamos e Modelamos através de nuvens de pontos ou qualquer outro método disponível e desejado."
+    },
+    "slide3": {
+      "title": "UAV/DRONE FOTOGRAMETRIA",
+      "text": "A fotogrametria é a arte e ciência de extrair medições precisas e informações tridimensionais a partir de imagens bidimensionais."
+    }
+  },
+
+  "services": {
+    "laser": {
+      "title": "Laser Scan e Levantamentos 3D",
+      "text": "Realizamos levantamentos arquitetónicos, patrimoniais, comerciais e industriais. Produzimos As-Builts detalhados e oferecemos monitorização especializada de edifícios históricos."
+    },
+    "design": {
+      "title": "Desenho 2D e Modelação 3D",
+      "text": "Elaboramos plantas, cortes e alçados em DWG. Trabalhamos com modelação 3D em múltiplos softwares, incluindo processos em BIM (Building Information Modeling)."
+    },
+    "drone": {
+      "title": "UAV/Drone Fotogrametria",
+      "text": "Oferecemos apoio a levantamentos topográficos, fotogrametria industrial e residencial, além da criação de modelos 3D virtuais e modelos digitais de terreno (MDT)."
+    }
+  },
+
+  "why": {
+    "title_strong": "Por que escolher trabalhar",
+    "title_rest": "com a SupremeXpansion?",
+    "experience": {
+      "title": "Experiência e Qualidade de Trabalho",
+      "text": "Mais de 25 anos de experiência e tecnologia de ponta garantem precisão e detalhe em cada levantamento e modelo 3D."
+    },
+    "tech": {
+      "title": "Tecnologia e Ferramentas",
+      "text": "Utilizamos tecnologias 2D e 3D avançadas, entregando resultados fiáveis, eficientes e prontos a integrar nos seus projetos."
+    },
+    "price": {
+      "title": "Preço Acessível",
+      "text": "Qualidade técnica a preços justos, ajustados a projetos de qualquer dimensão — de pequenas reabilitações a grandes empreendimentos."
+    },
+    "support": {
+      "title": "Excelente Suporte ao Cliente",
+      "text": "Acompanhamento próximo e transparente em todas as fases, com apoio contínuo e total dedicação ao cliente."
+    }
+  },
+
+  "portfolio": {
+    "title": "Portfolio",
+    "view_all": "VER TODOS"
+  },
+
+  "contact_section": {
+    "title": "Entre em contacto",
+    "subtitle": "Para qualquer questão ou esclarecimentos, entre em contacto connosco.",
+    "button": "CONTACTOS"
+  }
+}
+
+
+
+
+
+
+    }
+  }
+}
