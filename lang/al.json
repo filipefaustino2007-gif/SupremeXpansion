@@ -1,0 +1,449 @@
+{
+  "_comentario_cabecalho": "Übersetzungen für cabecalho.php (Navigationsmenü, Login usw.)",
+
+  "nav": {
+    "home": "STARTSEITE",
+    "about": "ÜBER UNS",
+    "services": "SERVICES",
+
+    "laser_scan": "Laserscanning und 3D-Vermessung",
+    "design_3d": "2D-Zeichnungen und 3D-Modellierung",
+    "uav_drone": "UAV/DRONE-Photogrammetrie",
+
+    "portfolio": "PORTFOLIO",
+    "residential": "Wohnraum-Vermes.",
+    "urban": "Städtische Vermes.",
+    "commercial": "Gewerbliche Vermes.",
+    "industrial": "Industrielle Vermes.",
+
+    "contacts": "KONTAKTE",
+    "login": "LOGIN"
+  },
+
+  "_comentario_contactos": "Übersetzungen für contactos.php (Kontaktseite, Formular, Kontaktinfo)",
+
+  "contact": {
+    "meta_title": "Kontakte - SupremeXpansion",
+    "hero_alt": "SupremeXpansion Kontakte",
+    "hero_title": "KONTAKTE",
+
+    "form": {
+      "title": "Kontaktieren Sie uns",
+      "intro": "Um uns zu erreichen, können Sie das Formular auf unserer Website nutzen, uns eine E-Mail an die angegebene Adresse senden oder uns telefonisch kontaktieren. Unser Team steht Ihnen zur Verfügung und beantwortet gerne alle Ihre Fragen.",
+
+      "fields": {
+        "name": "Name",
+        "email": "E-Mail",
+        "phone": "Mobil",
+        "reason_placeholder": "Grund der Kontaktaufnahme",
+        "reason_budget": "Angebotsanfrage",
+        "reason_partnership": "Partnerschaftsvorschlag",
+        "reason_support": "Kundensupport",
+        "reason_other": "Sonstiger Grund",
+        "subject": "Betreff",
+        "message": "Nachricht"
+      },
+
+      "consent_text": "Ich stimme zu, dass diese Website meine übermittelten Informationen speichern darf, um auf meine Anfrage zu antworten.",
+      "submit": "Senden",
+      "success": "Erfolgreich gesendet!"
+    },
+
+    "info": {
+      "phone_title": "TELEFON",
+      "phone_number_pt": "PT +351 935 584 011",
+      "phone_number_ing": "UK +44 7557 795 968",
+      "pt_note": "(Anruf zum nationalen Mobilfunknetz)",
+      "email_title": "E-MAIL",
+      "email_text": "info@supremexpansion.com"
+    }
+  },
+
+  "_comentario_home": "Übersetzungen für index.php (Startseite: Slider, Dienstleistungen, Warum wir?, Portfolio, Kontakt CTA)",
+
+  "home": {
+    "meta_title": "SupremeXpansion - Wir Erfassen Realität",
+
+    "slides": {
+      "slide1": {
+        "title": "LASERSCANNING UND 3D-VERMESSUNG",
+        "text": "Laserscanning und Punktwolken sind fortschrittliche Technologien, die die präzise Erfassung der Form und Dimension von Objekten in 3D ermöglichen."
+      },
+      "slide2": {
+        "title": "2D-ZEICHNUNGEN UND 3D-MODELLIERUNG",
+        "text": "Wir erstellen Zeichnungen und Modelle mithilfe von Punktwolken oder jeder anderen bevorzugten Methode."
+      },
+      "slide3": {
+        "title": "UAV/DRONE-PHOTOGRAMMETRIE",
+        "text": "Photogrammetrie ist die Kunst und Wissenschaft, präzise Messungen und dreidimensionale Informationen aus zweidimensionalen Bildern zu extrahieren."
+      }
+    },
+
+    "services": {
+      "laser": {
+        "title": "Laserscanning und 3D-Vermessung",
+        "text": "Wir führen architektonische, historische, gewerbliche und industrielle Vermessungen durch. Wir erstellen detaillierte As-Builts und bieten spezialisiertes Monitoring historischer Gebäude."
+      },
+      "design": {
+        "title": "2D-Zeichnungen und 3D-Modellierung",
+        "text": "Wir erstellen Grundrisse, Schnitte und Ansichten im DWG-Format. Wir arbeiten mit 3D-Modellierung in mehreren Softwarelösungen, einschließlich BIM-Workflows."
+      },
+      "drone": {
+        "title": "UAV/Drone-Photogrammetrie",
+        "text": "Wir unterstützen topografische Vermessungen sowie industrielle und private Photogrammetrie sowie die Erstellung virtueller 3D-Modelle und digitaler",
+        "rtext": "Geländemodelle (DTM)."
+      }
+    },
+
+    "why": {
+      "title_strong": "Warum sollten Sie mit",
+      "title_rest": "SupremeXpansion arbeiten?",
+      "experience": {
+        "title": "Erfahrung und Arbeitsqualität",
+        "text": "Mehr als 25 Jahre Erfahrung und modernste Technologie gewährleisten Präzision und Detailtreue bei jeder Vermessung und jedem 3D-Modell."
+      },
+      "tech": {
+        "title": "Technologie und Werkzeuge",
+        "text": "Wir nutzen fortschrittliche 2D- und 3D-Technologien und liefern zuverlässige, effiziente Ergebnisse, die bereit für Ihre Projekte sind."
+      },
+      "price": {
+        "title": "Erschwingliche Preise",
+        "text": "Technische Qualität zu fairen Preisen, geeignet für Projekte jeder Größe — von kleinen Sanierungen bis hin zu großen Entwicklungen."
+      },
+      "support": {
+        "title": "Ausgezeichneter Kundensupport",
+        "text": "Enger und transparenter Support in jeder Phase, mit kontinuierlicher Betreuung und voller Kundenorientierung."
+      }
+    },
+
+    "portfolio": {
+      "title": "Portfolio",
+      "view_all": "ALLE ANSEHEN"
+    },
+
+    "contact_section": {
+      "title": "Kontaktieren Sie uns",
+      "subtitle": "Für Fragen oder Klärungen stehen wir Ihnen zur Verfügung.",
+      "button": "KONTAKTE"
+    },
+
+    "carousel_section": {
+      "img1": "North Finchley Projekt UK",
+      "img2": "Anwesen Alentejo",
+      "img3": "Städtisches Stadion Coimbra",
+      "img4": "Brennerei Longra",
+      "img5": "Cofersan Lagerhäuser",
+      "img6": "Gebäudesanierung",
+      "img7": "Taberna do Quinzena",
+      "img8": "Ruine",
+      "img9": "Wohnprojekt",
+      "img10": "Hausvermessung",
+      "img11": "Lagerhausvermessung",
+      "img12": "Lebensmittelfabrik",
+      "img13": "Brückenschalung",
+      "img14": "CNEMA",
+      "img15": "Haus in Santarém",
+      "img16": "Dampfleitungen Cardiff UK",
+      "img17": "Drohnenkartierung London UK"
+    }
+  },
+
+  "politicas": {
+    "meta_title": "Datenschutzrichtlinie - SupremeXpansion",
+    "title": "DATENSCHUTZRICHTLINIE",
+    "texts": {
+      "texts1": {
+        "title": "Wer wir sind",
+        "about": "Die Adresse unserer Website lautet: "
+      },
+
+      "texts2": {
+        "title": "Kommentare",
+        "about1": "Wenn Besucher Kommentare auf der Website hinterlassen, erfassen wir die im Kommentarformular angezeigten Daten sowie die IP-Adresse und den User-Agent des Browsers, um Spam zu erkennen.",
+        "about2": "Eine anonyme Zeichenkette, die aus Ihrer E-Mail-Adresse erstellt wurde (Hash), kann an den Gravatar-Dienst gesendet werden, um zu überprüfen, ob Sie diesen verwenden. Die Datenschutzrichtlinie von Gravatar finden Sie hier: ",
+        "about3": "Nach Freigabe Ihres Kommentars ist Ihr Profilbild im Kontext Ihres Kommentars öffentlich sichtbar."
+      },
+
+      "texts3": {
+        "title": "Medien",
+        "about": "Beim Hochladen von Bildern sollten Sie vermeiden, Bilder mit eingebetteten Geolokalisierungsdaten (EXIF GPS) hochzuladen. Besucher können diese Daten aus den Bildern extrahieren."
+      },
+
+      "texts4": {
+        "title": "Cookies",
+        "about1": "Wenn Sie einen Kommentar hinterlassen, können Sie wählen, Ihren Namen, Ihre E-Mail-Adresse und Ihre Website in Cookies zu speichern. Dies dient Ihrer Bequemlichkeit, damit Sie diese Daten nicht erneut eingeben müssen. Diese Cookies bleiben ein Jahr lang bestehen.",
+        "about2": "Wenn Sie unsere Login-Seite besuchen, wird ein temporäres Cookie gesetzt, um zu prüfen, ob Ihr Browser Cookies akzeptiert. Dieses enthält keine persönlichen Daten und wird beim Schließen des Browsers gelöscht.",
+        "about3": "Beim Login werden mehrere Cookies eingerichtet, um Ihre Login-Daten und Anzeigeeinstellungen zu speichern. Login-Cookies bleiben zwei Tage bestehen, Anzeigeoptionen ein Jahr. Wenn Sie „Angemeldet bleiben“ wählen, bleibt Ihr Login zwei Wochen bestehen. Beim Logout werden diese Cookies entfernt.",
+        "about4": "Wenn Sie einen Artikel bearbeiten oder veröffentlichen, wird ein zusätzliches Cookie gespeichert, das keine persönlichen Daten enthält und lediglich die ID des bearbeiteten Inhalts anzeigt. Es läuft nach einem Tag ab."
+      },
+
+      "texts5": {
+        "title": "Eingebettete Inhalte anderer Websites",
+        "about1": "Artikel auf dieser Website können eingebettete Inhalte enthalten (z. B. Videos, Bilder, Artikel).",
+        "about2": "Diese Websites können Daten über Sie sammeln, Cookies verwenden, Tracking einbetten und Ihre Interaktion überwachen."
+      },
+
+      "texts6": {
+        "title": "Mit wem wir Daten teilen",
+        "about": "Wenn Sie eine Passwortzurücksetzung anfordern, wird Ihre IP-Adresse in der Rücksetz-E-Mail enthalten sein."
+      },
+
+      "texts7": {
+        "title": "Wie lange wir Ihre Daten speichern",
+        "about1": "Kommentare und deren Metadaten werden unbegrenzt gespeichert.",
+        "about2": "Für registrierte Benutzer speichern wir die bereitgestellten personenbezogenen Daten im Profil.",
+        "about3": "Alle Benutzer können ihre Daten einsehen, bearbeiten oder löschen (außer dem Benutzernamen)."
+      },
+
+      "texts8": {
+        "title": "Ihre Rechte über Ihre Daten",
+        "about": "Sie können eine Datei mit allen gespeicherten personenbezogenen Daten anfordern oder deren Löschung verlangen."
+      },
+
+      "texts9": {
+        "title": "Wohin Ihre Daten gesendet werden",
+        "about": "Besucherkommentare können durch einen automatisierten Spam-Dienst überprüft werden."
+      }
+    }
+  },
+
+  "portfolio": {
+    "meta_title": "Portfolio - SupremeXpansion",
+    "title": "PORTFOLIO",
+    "comerciais": {
+      "meta_title": "Gewerbliche Vermessung - Portfolio",
+      "title": "GEWERBLICHE VERMESSUNGEN"
+    },
+    "industriais": {
+      "meta_title": "Industrielle Vermessung - Portfolio",
+      "title": "INDUSTRIELLE VERMESSUNGEN"
+    },
+    "residenciais": {
+      "meta_title": "Wohnraum-Vermessung - Portfolio",
+      "title": "WOHNRAUM-VERMESSUNGEN"
+    },
+    "urbanos": {
+      "meta_title": "Städtische Vermessung - Portfolio",
+      "title": "STÄDTISCHE VERMESSUNGEN"
+    }
+  },
+
+  "rodape": {
+    "title": "2025 © SupremeXpansion - Wir Erfassen Realität",
+    "text1": "Alle Rechte vorbehalten",
+    "text2": "Datenschutzrichtlinie",
+    "servicos": "Dienstleistungen",
+    "servico1": "Laserscanning und 3D-Vermessung",
+    "servico2": "2D-Zeichnungen und 3D-Modellierung",
+    "servico3": "UAV/Drone-Photogrammetrie",
+    "contactos": "Kontakte",
+    "telefone": "Telefon",
+    "chamada": "(Anruf zum nationalen Mobilfunknetz)",
+    "numPT": "PT +351 935 584 011",
+    "numING": "UK +44 7557 795 968",
+    "email": "E-Mail",
+    "email_text": "info@supremexpansion.com"
+  },
+
+  "servicos": {
+    "meta_title": "Dienstleistungen - SupremeXpansion",
+    "text": "DIENSTLEISTUNGEN"
+  },
+
+  "servico1": {
+    "meta_title": "Laserscanning und 3D-Vermessung - SupremeXpansion",
+    "title": "Laserscanning und 3D-Vermessung",
+
+    "serv1": {
+      "title": "Laserscanning und Punktwolken",
+      "text": "Laserscanning erfasst Millionen von Punkten in Sekunden und erzeugt hochpräzise 3D-Punktwolken. Diese Technologie ermöglicht eine exakte Modellierung und Dokumentation physischer Räume."
+    },
+
+    "arquitetonicos": {
+      "title": "Architektonische Vermessungen",
+      "text": "Wir sind Spezialisten für Laserscan-Vermessungen und erstellen präzise Punktwolken für Grundrisse, Schnitte, Ansichten und 3D-Modelle."
+    },
+
+    "levantamentos": {
+      "title": "Innen-, Außen- und Straßenvermessungen",
+      "text1": "Wir nutzen Laserscanning zur präzisen Erfassung von Innenräumen, Außenbereichen und Straßen. Wir erstellen detaillierte 3D-Modelle für Architektur, Ingenieurwesen, Stadtplanung, Restaurierung und",
+      "text2": "Entscheidungsprozesse."
+    },
+
+    "asbuilts": {
+      "title": "As-Built-Dokumentation",
+      "text": "Wir erstellen genaue technische Dokumentationen des realen Bauzustands, ideal für Sanierungen, Erweiterungen oder Änderungen."
+    },
+
+    "monitorizacao": {
+      "title": "Überwachung historischer Gebäude",
+      "text": "Wir nutzen Laserscanning zur hochpräzisen Überwachung historischer Gebäude und zur Erkennung struktureller Veränderungen im Laufe der Zeit."
+    }
+  },
+
+  "servico2": {
+    "meta_title": "2D-Zeichnungen und 3D-Modellierung - SupremeXpansion",
+    "title": "2D-Zeichnungen und 3D-Modellierung",
+
+    "introducao": {
+      "title": "2D-Zeichnungen und 3D-Modellierung",
+      "text": "Wir kombinieren technische 2D-Zeichnungen und 3D-Modellierung, um präzise und realistische Darstellungen von Räumen und Strukturen zu erstellen."
+    },
+
+    "plantas": {
+      "title": "Grundrisse, Schnitte und Ansichten",
+      "text": "Wir erstellen detaillierte technische Zeichnungen, angepasst an die Bedürfnisse jedes Projekts."
+    },
+
+    "modelacao": {
+      "title": "3D-Modellierung",
+      "text": "Wir erstellen präzise und realistische 3D-Modelle, abgestimmt auf die Anforderungen jedes Projekts."
+    }
+  },
+
+  "servico3": {
+    "meta_title": "UAV/Drone-Photogrammetrie - SupremeXpansion",
+    "title": "UAV/Drone-Photogrammetrie",
+
+    "fotogrametria": {
+      "title": "Photogrammetrie",
+      "text": "Wir verwandeln Luftbilder von Drohnen in detaillierte und präzise 3D-Modelle."
+    },
+
+    "tecnicas": {
+      "title": "Haupttechniken der Photogrammetrie:",
+      "subtitle1": "Luftkartierung:",
+      "text1": "Wir erstellen hochauflösende Karten für Landwirtschaft, Stadtplanung und Umweltüberwachung.",
+      "subtitle2": "3D-Modellierung:",
+      "text2": "Erstellung dreidimensionaler Modelle von Gelände, Strukturen und Objekten.",
+      "subtitle3": "Volumenberechnung:",
+      "text3": "Präzise Volumenmessungen für Lagerbestand, Aushub und Ressourcenmanagement."
+    },
+
+    "vantagens": {
+      "title": "Vorteile der Photogrammetrie:",
+      "subtitle1": "Hohe Genauigkeit:",
+      "text1": "Gewährleistet äußerst zuverlässige Messungen und Modelle.",
+      "subtitle2": "Kosteneffizienz:",
+      "text2": "Reduziert Zeit und Ressourcen im Vergleich zu traditionellen Methoden.",
+      "subtitle3": "Klare Datenvisualisierung:",
+      "text3": "Erleichtert Analyse und Kommunikation komplexer Informationen.",
+      "subtitle4": "Datenerfassung in schwierigen Bereichen:",
+      "text4": "Ermöglicht sichere Datenerfassung in abgelegenen oder gefährlichen Gebieten.",
+      "subtitle5": "Umfassende Luftvermessungen:",
+      "text5": "Ideal für Forstwirtschaft, Bergbau und Umweltstudien."
+    },
+
+    "mdt": {
+      "title": "Digitales Geländemodell (DGM)",
+      "subtitle1": "Was ist ein DGM?",
+      "text1": "Ein DGM ist eine präzise 3D-Darstellung der Erdoberfläche basierend auf Höhenpunkten aus topografischen Vermessungen, Drohnenbildern oder Satellitendaten.",
+      "subtitle2": "Wie funktioniert ein DGM?",
+      "text2": "DGMs sind ein wesentliches Werkzeug in Ingenieurwesen, Architektur und Infrastrukturplanung.",
+      "subtitle3": "Rolle der Höhenlinien",
+      "text3": "Höhenlinien verbinden Punkte gleicher Höhe und sind grundlegend für topografische Karten."
+    },
+
+    "wrapper": {
+      "title": "Anwendungen von DGM und Höhenlinien",
+      "intro": "Digitale Geländemodelle und Höhenlinien haben vielfältige praktische Anwendungen:",
+      "subtitle1": "Kartographie:",
+      "text1": "Präzise Darstellung des Geländes.",
+      "subtitle2": "Ingenieurwesen:",
+      "text2": "Planung von Bauwerken, Straßen und Entwässerung.",
+      "subtitle3": "Stadtplanung:",
+      "text3": "Geländeanalyse zur Unterstützung städtebaulicher Entwicklungen.",
+      "subtitle4": "Geologie:",
+      "text4": "Untersuchung der Bodenstruktur.",
+      "subtitle5": "Ressourcenmanagement:",
+      "text5": "Unterstützung bei Forstwirtschaft, Wasserverwaltung und nachhaltiger Landnutzung."
+    },
+
+    "nuvens": {
+      "title": "Punktwolken mittels Photogrammetrie",
+      "subtitle1": "Was ist Photogrammetrie?",
+      "text1": "Photogrammetrie verwandelt Bilder in hochpräzise 3D-Punktwolken durch Analyse vieler überlappender Fotos.",
+      "subtitle2": "Wie funktioniert es?",
+      "text2": "Die Software erkennt gemeinsame Punkte und rekonstruiert deren 3D-Position.",
+      "subtitle3": "Vorteile",
+      "text3": "Unsere Punktwolken sind bereit für jede Art von Projektintegration.",
+      "topic1": "Hohe Genauigkeit:",
+      "subtext1": "Ideal für Vermessung und Dokumentation.",
+      "topic2": "Vielseitigkeit:",
+      "subtext2": "Anwendbar auf Gelände, Fassaden, Innenräume usw.",
+      "topic3": "Kosteneffizienz:",
+      "subtext3": "Reduziert traditionelle Vermessungskosten.",
+      "topic4": "Klarheit:",
+      "subtext4": "Ermöglicht digitale Analyse und Simulationen."
+    },
+
+    "aplicacoes": {
+      "title": "Anwendungen von Punktwolken:",
+      "subtitle1": "Kartierung und Topographie:",
+      "text1": "Erstellung präziser Karten und Geländemodelle.",
+      "subtitle2": "Bauingenieurwesen:",
+      "text2": "Unterstützung bei Planung und Überwachung.",
+      "subtitle3": "Denkmalschutz:",
+      "text3": "3D-Dokumentation historischer Stätten.",
+      "subtitle4": "Präzisionslandwirtschaft:",
+      "text4": "Analyse von Pflanzen, Schädlingsbekämpfung und effizienter Bewässerung.",
+      "subtitle5": "Geologie und Bergbau:",
+      "text5": "Geländemodellierung und Analyse von Vorkommen."
+    }
+  },
+
+  "sobre": {
+    "meta_title": "Über uns - SupremeXpansion",
+    "title": "ÜBER UNS",
+    "sobre": "Über ",
+    "supreme": "SupremeXpansion",
+
+    "experiencia": {
+      "title": "Erfahrung und Arbeitsqualität",
+      "text": "Mit mehr als 25 Jahren Erfahrung bieten wir hervorragende Dienstleistungen, kombiniert mit modernster Technologie und einem hochqualifizierten Team."
+    },
+
+    "tecnologia": {
+      "title": "Technologie und Werkzeuge",
+      "text": "Wir arbeiten mit den fortschrittlichsten 2D- und 3D-Technologien und gewährleisten zuverlässige Ergebnisse."
+    },
+
+    "preco": {
+      "title": "Erschwingliche Preise",
+      "text": "Qualität muss nicht teuer sein. Wir bieten wettbewerbsfähige Preise für Projekte jeder Größe."
+    },
+
+    "suporte": {
+      "title": "Ausgezeichneter Kundensupport",
+      "text": "Wir bieten persönlichen, transparenten Support während des gesamten Projekts."
+    },
+
+    "resumo": {
+      "text": "Zusammengefasst sind wir ein erfahrenes Unternehmen mit moderner Technologie, fairen Preisen und hervorragendem Kundenservice."
+    },
+
+    "equipa": {
+      "title": "Team",
+      "membro1": "Hugo Pinto",
+      "cargo1": "Geschäftsführer",
+      "membro2": "Carlos Serrão",
+      "cargo2": "Senior Architekt",
+      "membro3": "Marisa Pinto",
+      "cargo3": "Verwaltung",
+      "membro4": "Joana Leite",
+      "cargo4": "Architekturpraktikantin",
+      "membro5": "Ana Vieira",
+      "cargo5": "Architektin",
+      "membro6": "Luiza Vilela",
+      "cargo6": "Architektin",
+      "membro7": "Marco Pintão",
+      "cargo7": "Technischer Zeichner",
+      "membro8": "José Queirós",
+      "cargo8": "3D-Modellierer",
+      "membro9": "Hryhoriy Kit",
+      "cargo9": "3D-Modellierer",
+      "membro10": "Susana Oliveira",
+      "cargo10": "Vertriebsmitarbeiterin"
+    }
+  }
+}
