@@ -1,0 +1,64 @@
+<svg width="80" height="60" viewBox="0 0 80 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1671_586)">
+<path d="M0 0H80.0125V60H0V0Z" fill="#C8102E"/>
+<path d="M25.7125 0H34.2875V60H25.7125V0Z" fill="white"/>
+<path d="M0 25.7125H80.0125V34.2875H0V25.7125Z" fill="white"/>
+<g clip-path="url(#clip1_1671_586)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0H80V6.6625H0V0Z" fill="#0D5EAF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 6.66248H80V13.3375H0V6.66248Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 13.3375H80V20H0V13.3375Z" fill="#0D5EAF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 20H80V26.6625H0V20Z" fill="white"/>
+<path d="M0 0H33.3375V33.3375H0V0Z" fill="#0D5EAF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 26.6625H80V33.3375H0V26.6625Z" fill="#0D5EAF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 33.3375H80V40H0V33.3375Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 40H80V46.6625H0V40Z" fill="#0D5EAF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 46.6625H80V53.3375H0V46.6625Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M13.3375 0H20V33.3375H13.3375V0Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 13.3375H33.3375V20H0V13.3375Z" fill="white"/>
+<path d="M0 53.3375H80V60H0V53.3375Z" fill="#0D5EAF"/>
+</g>
+<g clip-path="url(#clip2_1671_586)">
+<path d="M0 0H80V60H0V0Z" fill="white"/>
+<path d="M0 21.8125H80V38.1875H0V21.8125Z" fill="#002F6C"/>
+<path d="M21.9375 0H38.3V60H21.925L21.9375 0Z" fill="#002F6C"/>
+</g>
+<g clip-path="url(#clip3_1671_586)">
+<path d="M0 0H80V60H0V0Z" fill="#005293"/>
+<path d="M22 0V24H0V36H22V60H34V36H80V24H34V0H22Z" fill="#FECB00"/>
+</g>
+<g clip-path="url(#clip4_1671_586)">
+<path d="M0 0H80V30H0V0Z" fill="white"/>
+<path d="M0 30H80V60H0V30Z" fill="#D7141A"/>
+<path d="M45 30L0 0V60L45 30Z" fill="#11457E"/>
+</g>
+<g clip-path="url(#clip5_1671_586)">
+<path d="M0 0H80V60H0V0Z" fill="#EE1C25"/>
+<path d="M0 0H80V40H0V0Z" fill="#0B4EA2"/>
+<path d="M0 0H80V20H0V0Z" fill="white"/>
+<path d="M29.125 46.35C23.75 43.7625 16.05 38.6125 16.05 28.45C16.05 18.275 16.55 13.65 16.55 13.65H41.7126C41.7126 13.65 42.2001 18.275 42.2001 28.45C42.2001 38.625 34.5 43.75 29.125 46.35Z" fill="white"/>
+<path d="M29.125 45C24.1875 42.625 17.125 37.9 17.125 28.575C17.125 19.25 17.575 15 17.575 15H40.675C40.675 15 41.1125 19.25 41.1125 28.575C41.125 37.9125 34.0625 42.625 29.125 45Z" fill="#EE1C25"/>
+<path d="M30.175 26.125C31.5125 26.15 34.125 26.2 36.4375 25.425C36.4375 25.425 36.3875 26.2625 36.3875 27.225C36.3875 28.1875 36.45 29.025 36.45 29.025C34.325 28.3125 31.6875 28.3 30.175 28.3125V33.4625H28.075V28.3125C26.575 28.3 23.9375 28.3125 21.8125 29.025C21.8125 29.025 21.875 28.1875 21.875 27.225C21.875 26.2625 21.8125 25.425 21.8125 25.425C24.125 26.2 26.7375 26.15 28.0625 26.125V22.8875C26.85 22.8875 25.1 22.9375 23.1125 23.6C23.1125 23.6 23.175 22.775 23.175 21.8C23.175 20.8375 23.1125 20 23.1125 20C25.1 20.6625 26.85 20.725 28.0625 20.7125C28 18.6625 27.4 16.0875 27.4 16.0875C27.4 16.0875 28.6375 16.175 29.125 16.175C29.6125 16.175 30.85 16.0875 30.85 16.0875C30.85 16.0875 30.25 18.6625 30.1875 20.7125C31.4 20.725 33.15 20.6625 35.1375 20C35.1375 20 35.075 20.8375 35.075 21.8C35.075 22.7625 35.1375 23.6 35.1375 23.6C33.5356 23.0835 31.8576 22.8426 30.175 22.8875V26.1375V26.125Z" fill="white"/>
+<path d="M29.125 32.9125C26.6375 32.9125 25.3125 36.35 25.3125 36.35C25.3125 36.35 24.5625 34.725 22.5375 34.725C21.1625 34.725 20.1625 35.9375 19.5125 37.075C22.0125 41.0375 26 43.4875 29.125 45C32.25 43.5 36.2499 41.0375 38.7374 37.075C38.0874 35.95 37.0875 34.725 35.7125 34.725C33.6875 34.725 32.9375 36.35 32.9375 36.35C32.9375 36.35 31.625 32.9125 29.125 32.9125Z" fill="#0B4EA2"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_1671_586">
+<rect width="80" height="60" fill="white"/>
+</clipPath>
+<clipPath id="clip1_1671_586">
+<rect width="80" height="60" fill="white"/>
+</clipPath>
+<clipPath id="clip2_1671_586">
+<rect width="80" height="60" fill="white"/>
+</clipPath>
+<clipPath id="clip3_1671_586">
+<rect width="80" height="60" fill="white"/>
+</clipPath>
+<clipPath id="clip4_1671_586">
+<rect width="80" height="60" fill="white"/>
+</clipPath>
+<clipPath id="clip5_1671_586">
+<rect width="80" height="60" fill="white"/>
+</clipPath>
+</defs>
+</svg>
